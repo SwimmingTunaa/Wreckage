@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 0a4b6b2d51222c941ad41fad47c71ebb
+timeCreated: 1468566814
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wooden beams_0
+    21300002: wooden beams_1
+    21300004: wooden beams_2
+    21300006: wooden beams_3
+    21300008: wooden beams_4
+    21300010: wooden beams_5
+    21300012: wooden beams_6
+    21300014: wooden beams_7
+    21300016: wooden beams_8
+    21300018: wooden beams_9
+    21300020: wooden beams_10
+    21300022: wooden beams_11
+    21300024: wooden beams_12
+    21300026: wooden beams_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wooden beams_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 945
+        width: 308
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wooden beams_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 848
+        width: 402
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wooden beams_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 753
+        width: 290
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wooden beams_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 591
+        width: 388
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wooden beams_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 513
+        width: 563
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wooden beams_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 461
+        width: 306
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wooden beams_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 368
+        width: 402
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wooden beams_7
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 269
+        width: 290
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wooden beams_8
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 107
+        width: 388
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wooden beams_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 29
+        width: 563
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wooden beams_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 736
+        width: 485
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -39}
+        - {x: -119, y: -39}
+        - {x: -121, y: -41}
+        - {x: -121, y: -57}
+        - {x: 17, y: -57}
+        - {x: 25, y: -49}
+        - {x: 27, y: -45}
+        - {x: 27, y: -41}
+      - - {x: 114, y: 10}
+        - {x: -86, y: 10}
+        - {x: -88, y: 8}
+        - {x: -88, y: -8}
+        - {x: 77, y: -8}
+        - {x: 115, y: 2}
+        - {x: 116, y: 4}
+        - {x: 116, y: 9}
+      - - {x: -82, y: 57}
+        - {x: -82, y: 39}
+        - {x: 75, y: 39}
+        - {x: 75, y: 55}
+        - {x: 73, y: 57}
+    - name: wooden beams_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 500
+        width: 572
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -143, y: -9.5}
+        - {x: -143, y: -31.5}
+        - {x: 135, y: -31.5}
+        - {x: 142, y: -21.5}
+        - {x: 142, y: -9.5}
+      - - {x: 51, y: 28.5}
+        - {x: -139, y: 28.5}
+        - {x: -139, y: 7.5}
+        - {x: 56, y: 7.5}
+        - {x: 58, y: 8.5}
+        - {x: 58, y: 22.5}
+    - name: wooden beams_12
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 264
+        width: 482
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -36.5}
+        - {x: -29.5, y: -39.5}
+        - {x: -29.5, y: -46.5}
+        - {x: -18.5, y: -56.5}
+        - {x: 118.5, y: -56.5}
+        - {x: 118.5, y: -36.5}
+      - - {x: -115.5, y: 12.5}
+        - {x: -118.5, y: 10.5}
+        - {x: -118.5, y: 4.5}
+        - {x: -79.5, y: -6.5}
+        - {x: 85.5, y: -6.5}
+        - {x: 85.5, y: 12.5}
+      - - {x: -77.5, y: 57.5}
+        - {x: -77.5, y: 42.5}
+        - {x: -76.5, y: 39.5}
+        - {x: 77.5, y: 39.5}
+        - {x: 79.5, y: 41.5}
+        - {x: 79.5, y: 57.5}
+    - name: wooden beams_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 25
+        width: 590
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -137.5, y: -8.5}
+        - {x: -138.5, y: -10.5}
+        - {x: -138.5, y: -17.5}
+        - {x: -129.5, y: -31.5}
+        - {x: 144.5, y: -31.5}
+        - {x: 146.5, y: -29.5}
+        - {x: 146.5, y: -10.5}
+        - {x: 144.5, y: -8.5}
+      - - {x: -50.5, y: 30.5}
+        - {x: -54.5, y: 21.5}
+        - {x: -54.5, y: 10.5}
+        - {x: -52.5, y: 7.5}
+        - {x: 140.5, y: 7.5}
+        - {x: 142.5, y: 9.5}
+        - {x: 142.5, y: 30.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 58ef01d515db20040927ca562cf3aef4
+timeCreated: 1467128251
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: decals_package_b_0
+    21300002: decals_package_b_1
+    21300004: decals_package_b_2
+    21300006: decals_package_b_3
+    21300008: decals_package_b_4
+    21300010: decals_package_b_5
+    21300012: decals_package_b_6
+    21300014: decals_package_b_7
+    21300016: decals_package_b_8
+    21300018: decals_package_b_9
+    21300020: decals_package_b_10
+    21300022: decals_package_b_11
+    21300024: decals_package_b_12
+    21300026: decals_package_b_13
+    21300028: decals_package_b_14
+    21300030: decals_package_b_15
+    21300032: decals_Paintings_0
+    21300034: decals_Paintings_1
+    21300036: decals_Paintings_2
+    21300038: decals_Paintings_3
+    21300040: decals_Paintings_4
+    21300042: decals_Paintings_5
+    21300044: decals_Paintings_6
+    21300046: decals_Paintings_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: decals_Paintings_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 772
+        width: 400
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 118}
+        - {x: -200, y: -118}
+        - {x: 200, y: -118}
+        - {x: 200, y: 118}
+    - name: decals_Paintings_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 772
+        width: 284
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -142, y: 118}
+        - {x: -142, y: -118}
+        - {x: 142, y: -118}
+        - {x: 142, y: 118}
+    - name: decals_Paintings_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 788
+        width: 280
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -140, y: 106.5}
+        - {x: -140, y: -106.5}
+        - {x: 140, y: -106.5}
+        - {x: 140, y: 106.5}
+    - name: decals_Paintings_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 464
+        width: 404
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 202, y: 138}
+        - {x: -202, y: 138}
+        - {x: -202, y: -136}
+        - {x: -200, y: -136}
+        - {x: -200, y: -138}
+        - {x: 200, y: -138}
+        - {x: 200, y: 4}
+        - {x: 202, y: 4}
+    - name: decals_Paintings_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 440
+        width: 512
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -256, y: 156}
+        - {x: -256, y: -156}
+        - {x: 256, y: -156}
+        - {x: 256, y: 156}
+    - name: decals_Paintings_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 344
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -172, y: 132}
+        - {x: -172, y: -132}
+        - {x: 172, y: -132}
+        - {x: 172, y: 132}
+    - name: decals_Paintings_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 80
+        width: 320
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160, y: 156}
+        - {x: -160, y: -156}
+        - {x: 160, y: -156}
+        - {x: 160, y: 156}
+    - name: decals_Paintings_7
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 31
+        width: 234
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: -87.5}
+        - {x: 105, y: -87.5}
+        - {x: 105, y: -81.5}
+        - {x: 11, y: 69.5}
+        - {x: -2, y: 69.5}
+        - {x: -67, y: -89.5}
+        - {x: -67, y: -100.5}
+        - {x: -63, y: -100.5}
+        - {x: -60, y: -97.5}
+        - {x: -52, y: -78.5}
+        - {x: -15, y: 13.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

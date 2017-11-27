@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a08f5c4dcae2e3546906a478d92d1af6
+timeCreated: 1509890288
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: New Cicle
+  fontNames:
+  - New Cicle
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

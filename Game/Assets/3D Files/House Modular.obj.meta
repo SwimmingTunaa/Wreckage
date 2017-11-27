@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 68f912c21769690418694bf5077044e9
+timeCreated: 1459158898
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Floor
+    100002: FloorBig
+    100004: //RootNode
+    100006: Kid_Scale
+    100008: Roof
+    100010: Roof_Medium
+    100012: Wal_Long
+    100014: Wall_1
+    100016: Wall_Door
+    100018: Wall_Half
+    100020: Wall_Window
+    100022: Box001
+    100024: Object001
+    100026: Wall_Hole
+    100028: Wall_hole__2
+    100030: Window
+    100032: Door
+    100034: Wall_Half_Hallway
+    100036: Wall_Long
+    100038: Wall_Long_Hallway
+    100040: Wall_Medium
+    100042: Wall_Medium_Hallway
+    100044: Pillar
+    400000: Floor
+    400002: FloorBig
+    400004: //RootNode
+    400006: Kid_Scale
+    400008: Roof
+    400010: Roof_Medium
+    400012: Wal_Long
+    400014: Wall_1
+    400016: Wall_Door
+    400018: Wall_Half
+    400020: Wall_Window
+    400022: Box001
+    400024: Object001
+    400026: Wall_Hole
+    400028: Wall_hole__2
+    400030: Window
+    400032: Door
+    400034: Wall_Half_Hallway
+    400036: Wall_Long
+    400038: Wall_Long_Hallway
+    400040: Wall_Medium
+    400042: Wall_Medium_Hallway
+    400044: Pillar
+    2300000: Floor
+    2300002: FloorBig
+    2300004: Kid_Scale
+    2300006: Roof
+    2300008: Roof_Medium
+    2300010: Wal_Long
+    2300012: Wall_1
+    2300014: Wall_Door
+    2300016: Wall_Half
+    2300018: Wall_Window
+    2300020: Box001
+    2300022: Object001
+    2300024: Wall_Hole
+    2300026: Wall_hole__2
+    2300028: Window
+    2300030: Door
+    2300032: Wall_Half_Hallway
+    2300034: Wall_Long
+    2300036: Wall_Long_Hallway
+    2300038: Wall_Medium
+    2300040: Wall_Medium_Hallway
+    2300042: Pillar
+    3300000: Floor
+    3300002: FloorBig
+    3300004: Kid_Scale
+    3300006: Roof
+    3300008: Roof_Medium
+    3300010: Wal_Long
+    3300012: Wall_1
+    3300014: Wall_Door
+    3300016: Wall_Half
+    3300018: Wall_Window
+    3300020: Box001
+    3300022: Object001
+    3300024: Wall_Hole
+    3300026: Wall_hole__2
+    3300028: Window
+    3300030: Door
+    3300032: Wall_Half_Hallway
+    3300034: Wall_Long
+    3300036: Wall_Long_Hallway
+    3300038: Wall_Medium
+    3300040: Wall_Medium_Hallway
+    3300042: Pillar
+    4300000: Floor
+    4300002: FloorBig
+    4300004: Kid_Scale
+    4300006: Roof
+    4300008: Roof_Medium
+    4300010: Wal_Long
+    4300012: Wall_1
+    4300014: Wall_Door
+    4300016: Wall_Half
+    4300018: Wall_Window
+    4300020: Box001
+    4300022: Object001
+    4300024: Wall_Hole
+    4300026: Wall_hole__2
+    4300028: Window
+    4300030: Door
+    4300032: Wall_Half_Hallway
+    4300034: Wall_Long
+    4300036: Wall_Long_Hallway
+    4300038: Wall_Medium
+    4300040: Wall_Medium_Hallway
+    4300042: Pillar
+    6400000: Floor
+    6400002: FloorBig
+    6400004: Kid_Scale
+    6400006: Roof
+    6400008: Roof_Medium
+    6400010: Wal_Long
+    6400012: Wall_1
+    6400014: Wall_Door
+    6400016: Wall_Half
+    6400018: Wall_Window
+    6400020: Box001
+    6400022: Object001
+    6400024: Wall_Hole
+    6400026: Wall_hole__2
+    6400028: Window
+    6400030: Door
+    6400032: Wall_Half_Hallway
+    6400034: Wall_Long
+    6400036: Wall_Long_Hallway
+    6400038: Wall_Medium
+    6400040: Wall_Medium_Hallway
+    6400042: Pillar
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

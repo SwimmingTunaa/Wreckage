@@ -1,0 +1,11 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Plugins/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Resources/Atlas/Wall Texture Atlas.tpsheet
+textureFileNames:
+- Assets/Plugins/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Resources/Atlas/Wall Texture Atlas.png
+normalmapFileNames:
+- Assets/Plugins/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 

@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 9362853acfa99994bb1b5709fe9a5b0e
+timeCreated: 1479375956
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stuff 2_0
+    21300002: Stuff 2_1
+    21300004: Stuff 2_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Stuff 2_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1356
+        width: 1152
+        height: 648
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -576, y: 324}
+        - {x: -576, y: -324}
+        - {x: 576, y: -324}
+        - {x: 576, y: 324}
+    - name: Stuff 2_1
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1540
+        width: 737
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -13}
+        - {x: -7.5, y: -16}
+        - {x: -10.5, y: -16}
+        - {x: -8.5, y: -16}
+        - {x: -0.5, y: -11}
+        - {x: -0.5, y: 44}
+        - {x: -5.5, y: 51}
+        - {x: -111.5, y: 51}
+        - {x: -114.5, y: 49}
+        - {x: -114.5, y: -60}
+        - {x: -102.5, y: -57}
+        - {x: -83.5, y: -57}
+        - {x: -107.5, y: -59}
+        - {x: -114.5, y: -61}
+        - {x: -114.5, y: -93}
+        - {x: -106.5, y: -100}
+        - {x: -46.5, y: -100}
+        - {x: -5.5, y: -56}
+        - {x: -0.5, y: -51}
+        - {x: -0.5, y: -21}
+      - - {x: -361.5, y: 98}
+        - {x: -367.5, y: 96}
+        - {x: -367.5, y: -56}
+        - {x: -365.5, y: -57}
+        - {x: -310.5, y: -57}
+        - {x: -310.5, y: 91}
+        - {x: -315.5, y: 98}
+      - - {x: -291.5, y: 98}
+        - {x: -310.5, y: 87}
+        - {x: -310.5, y: 15}
+        - {x: -305.5, y: 10}
+        - {x: -289.5, y: 8}
+        - {x: -301.5, y: 9}
+        - {x: -310.5, y: -1}
+        - {x: -310.5, y: -57}
+        - {x: -171.5, y: -57}
+        - {x: -171.5, y: 61}
+        - {x: -194.5, y: 98}
+      - - {x: -114.5, y: 41}
+        - {x: -118.5, y: 50}
+        - {x: -124.5, y: 51}
+        - {x: -163.5, y: 51}
+        - {x: -171.5, y: 43}
+        - {x: -171.5, y: 15}
+        - {x: -166.5, y: 10}
+        - {x: -151.5, y: 10}
+        - {x: -145.5, y: 14}
+        - {x: -140.5, y: 8}
+        - {x: -157.5, y: 10}
+        - {x: -171.5, y: 2}
+        - {x: -171.5, y: -49}
+        - {x: -164.5, y: -57}
+        - {x: -121.5, y: -57}
+        - {x: -114.5, y: -48}
+      - - {x: 145.5, y: 52}
+        - {x: 109.5, y: 52}
+        - {x: 98.5, y: 39}
+        - {x: 100.5, y: 16}
+        - {x: 103.5, y: 10}
+        - {x: 121.5, y: 9}
+        - {x: 127.5, y: 17}
+        - {x: 132.5, y: 8}
+        - {x: 113.5, y: 9}
+        - {x: 104.5, y: 3}
+        - {x: 101.5, y: 14}
+        - {x: 95.5, y: 23}
+        - {x: 72.5, y: 24}
+        - {x: 104.5, y: 63}
+        - {x: 102.5, y: 98}
+        - {x: 43.5, y: 98}
+        - {x: 43.5, y: -57}
+        - {x: 155.5, y: -57}
+        - {x: 157.5, y: -52}
+        - {x: 157.5, y: 45}
+      - - {x: 245.5, y: -57}
+        - {x: 246.5, y: -55}
+        - {x: 246.5, y: 45}
+        - {x: 242.5, y: 51}
+        - {x: 157.5, y: 51}
+        - {x: 157.5, y: -53}
+        - {x: 160.5, y: -57}
+        - {x: 177.5, y: -57}
+        - {x: 185.5, y: -55}
+        - {x: 194.5, y: -57}
+      - - {x: 328.5, y: 8}
+        - {x: 328.5, y: 22}
+        - {x: 334.5, y: 15}
+        - {x: 339.5, y: 10}
+        - {x: 354.5, y: 10}
+        - {x: 359.5, y: 15}
+        - {x: 359.5, y: 44}
+        - {x: 353.5, y: 51}
+        - {x: 246.5, y: 51}
+        - {x: 246.5, y: -56}
+        - {x: 247.5, y: -57}
+        - {x: 359.5, y: -57}
+        - {x: 359.5, y: 6}
+        - {x: 345.5, y: 8}
+    - name: Stuff 2_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 762
+        width: 987
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -491.5, y: 281.5}
+        - {x: -493.5, y: 279.5}
+        - {x: -493.5, y: -281.5}
+        - {x: 493.5, y: -281.5}
+        - {x: 493.5, y: 280.5}
+        - {x: 492.5, y: 281.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
